@@ -3,6 +3,7 @@
 English and French dual translation with RNN
 
 Data sources:
+
 TRAIN
 https://raw.githubusercontent.com/tommytracey/AIND-Capstone/master/data/small_vocab_en
 https://raw.githubusercontent.com/tommytracey/AIND-Capstone/master/data/small_vocab_fr
